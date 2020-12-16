@@ -1,3 +1,4 @@
+
 .container {
   margin: 36px auto;
   width: 80%;
@@ -5,6 +6,7 @@
   text-align: center;
 }
 
+/* search for audiobook/music/videos/movies below heading */
 .heading {
   font-size: 30px;
   padding: 16px 0;
@@ -12,11 +14,13 @@
   text-align: center;
 }
 
+/* input box */
 .search-label {
   position: relative;
   width: 50%;
 }
 
+/* style words inputed by user in input box */
 .container input {
   width: 100%;
   padding: 16px;
@@ -27,6 +31,7 @@
   outline: none;
 }
 
+/* search icon */
 .search-icon {
   position: absolute;
   top: 26px;
@@ -35,13 +40,13 @@
   right: 18px;
 }
 
+/* order of results searched*/
 .results-container {
   display: flex;
   flex-flow: wrap;
 }
 
-
-
+/* results style*/
 .result-item {
   display: block;
   position: relative;
@@ -53,6 +58,7 @@
   box-shadow: 4px 4px 4px grey;
 }
 
+/* image name */
 .image-username {
   color: white;
   font-size: 20px;
@@ -71,7 +77,7 @@
   box-sizing: border-box;
   height: 100%;
 }
-
+/* image size */
 .image {
   height: 95%;
   width: 200px;
@@ -104,7 +110,7 @@
 .nav-link {
   color: #555;
   text-decoration: none;
-  border: 1px solid #898989;
+  border: 1px solid pink;
   padding: 10px 20px;
   margin-right: 10px;
 }
@@ -148,7 +154,7 @@
   border: 3px solid rgb(168, 168, 168);
   overflow-y: scroll;
 }
-
+/* favourite image name */
 .favorite-username {
   overflow-x: hidden;
 }

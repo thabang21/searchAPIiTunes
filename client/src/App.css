@@ -1,26 +1,29 @@
-
-
+/* App style */
 .App {
   background-color:teal;
   margin: 0;
   padding: 5;
 }
 
+/* input box  */
 .wrap-Brand {
   display: flex;
   color: greenyellow;
 }
 
+/* "iTunes" logo */
 .logoName {
   padding-left: 15px;
 }
 
+/* iTunes API Search text */
 .welcome-text {
   text-align: center;
   margin-top: 25px;
   text-decoration: underline;
 }
 
+/* welcome page layout */
 .home-container {
   text-align: center;
   margin-top: 65px;
@@ -30,13 +33,14 @@
   margin: 25px 0;
 }
 
+/* welcome page image */
 .img {
   border: 4px solid black;
 }
 
+/* pages navigation links */
 .link {
   font-weight: bold;
-
   margin: 0px 5px;
   padding: 5px;
   text-decoration: none;

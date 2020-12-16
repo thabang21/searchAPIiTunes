@@ -3,9 +3,8 @@ import { Table } from "reactstrap";
 
 export default props => {
   const { favoriteList } = props;
-
   return (
-    <div className="favorite inp">
+    <div className="favorite">
       <Table bordered dark>
         <thead>
           <tr>

@@ -14,7 +14,7 @@
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
-    "react-test-renderer": "^16.9.0",
+    "react-test-renderer": "^16.14.0",
     "reactstrap": "^8.0.1"
   },
   "scripts": {
@@ -36,5 +36,9 @@
     "development": [
       "last 1 chrome version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^11.2.2",
+    "jest-dom": "^4.0.0"
   }
 }

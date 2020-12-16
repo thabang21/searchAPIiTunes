@@ -7,14 +7,15 @@ function NavBar() {
   return (
     <header className="App-header">
       <Navbar expand="sm" bg="dark" variant="dark">
+      
         {/*---Logo icon image --- */}
         <Navbar.Brand href="/">
           <div className="wrap-Brand">
-
             <h2 className="logoName"> iTunes </h2>
           </div>
         </Navbar.Brand>
 
+        {/*---page navigation links --- */}
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text className="nav-text">
             <Nav className="mr-auto">
@@ -30,12 +31,12 @@ function NavBar() {
               <Link to="/videos" className="link">
                 Videos
               </Link>
-
-
             </Nav>
           </Navbar.Text>
         </Navbar.Collapse>
+        
       </Navbar>
+
       <div className="welcome-text">
         <h1>iTunes API Search</h1>
       </div>

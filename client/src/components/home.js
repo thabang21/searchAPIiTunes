@@ -1,6 +1,7 @@
 import React from "react";
 import "../App.css";
 
+//introduction page
 function Home() {
   return (
     <div className="home-container">
@@ -16,8 +17,6 @@ function Home() {
         />
       </div>
       <br />
-
-
     </div>
   );
 }
