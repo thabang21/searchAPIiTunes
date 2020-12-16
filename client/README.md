@@ -29,7 +29,7 @@ To learn how it works read the How to use app section on top.
 
 =======Github Link=======
 
-https://github.com/thabang21/itunes-api 
+https://github.com/thabang21/searchAPIiTunes 
 
 ========Safety Measures====
 
@@ -37,20 +37,3 @@ Note that Helmet is used on this app in order to protect and encrypt,
 to prevent click jacking
 
 
-
-========App in Action====
-<b>Landing Page</b>
-![](ReadMe.md/slide%20(1).png)
-![](ReadMe.md/slide%20(2).png)
-
-<b>Search engine on Music Category</b>
-![](ReadMe.md/slide%20(3).png)
-
-<b>Favorate list</b>
-![](ReadMe.md/slide%20(4).png)
-
-<b>Search engine on Movies Category</b>
-![](ReadMe.md/slide%20(5).png)
-
-<b>play trailer</b>
-![](ReadMe.md/slide%20(6).png)
