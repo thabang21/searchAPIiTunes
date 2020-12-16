@@ -1,4 +1,4 @@
-# searchAPIiTunes
+# iTunes API Search
 
 ## Home page
 <img src="images/results3.PNG" weight="100">
