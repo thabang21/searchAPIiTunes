@@ -23,13 +23,13 @@ button
 
 =======Heroku Link=======
 
-Link - https://afternoon-savannah-46317.herokuapp.com
-copy the link above and paste it into your browser's url.
-To learn how it works read the How to use app section on top.
+- Link - https://afternoon-savannah-46317.herokuapp.com
+- copy the link above and paste it into your browser's url.
+- To learn how it works read the How to use app section on top.
 
 =======Github Link=======
 
-https://github.com/thabang21/searchAPIiTunes 
+- Link - https://github.com/thabang21/searchAPIiTunes 
 
 ========Safety Measures====
 
