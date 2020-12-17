@@ -3,8 +3,8 @@ iTunes Search Website
 =====Setting Up App=====
 
 In order to use the app ,copy it to your local machine and open your editors terminal or your CLI terminal.
-For server side cd to directory itunesApiWeb and install node modules [type npm install,then npm start]
-for front end side cd to directory itunesApiWeb/client and install node modules [type npm install,then npm start]
+- For server side cd to directory itunesApiWeb and install node modules [type npm install,then npm start]
+- For front end side cd to directory itunesApiWeb/client and install node modules [type npm install,then npm start]
 
 Open your browser and type in http://localhost:3000/
 
